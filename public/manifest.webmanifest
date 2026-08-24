@@ -1,6 +1,6 @@
 {
-  "name": "lessonplanr Teacher Workspace",
-  "short_name": "lessonplanr",
+  "name": "Reminders — Teacher Workspace",
+  "short_name": "Reminders",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f5f3ed",

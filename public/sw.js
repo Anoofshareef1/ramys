@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lessonplanr-v1'
+const CACHE_NAME = 'reminders-v1'
 const APP_SHELL = ['/', '/manifest.webmanifest', '/icon.svg']
 
 self.addEventListener('install', (event) => {
